@@ -13,9 +13,14 @@ This is a book [prototype](https://github.com/H00gy/Unity-2D-book/blob/main/READ
 
 # About Me
 I am a passionate Game Designer and 3D animator who deeply loves the detailed creation of interactive systems and worlds in video games. I develop games within Unity, and Unreal Engine 5, but I am eager to learn other game engines! <br>
+<br>
 Education: Jacksonville University (2022-2026) B.S. Animation and B.S. Game Design <br>
+<br>
 Solo Developer of "Chrono-Vice" slated to release summer 2026 <br>
+<br>
 Phone +1(505) 800-8126 <br>
+<br>
 Email: dimitry.ross.hy@gmail.com <br>
-ArtStation: https://www.artstation.com/dimitryross
+<br>
+ArtStation: https://www.artstation.com/dimitryross <br>
 
