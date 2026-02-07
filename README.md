@@ -22,5 +22,5 @@ Phone +1(505) 800-8126 <br>
 <br>
 Email: dimitry.ross.hy@gmail.com <br>
 <br>
-ArtStation: https://www.artstation.com/dimitryross <br>
+[ArtStation](https://www.artstation.com/dimitryross)
 
