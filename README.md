@@ -9,9 +9,9 @@ Phone +1(505) 800-8126 <br>
 <br>
 Email: dimitry.ross.hy@gmail.com <br>
 <br>
-[ArtStation](https://www.artstation.com/dimitryross)
+[ArtStation](https://www.artstation.com/dimitryross) <br>
 <br>
-[CV](Resume.pdf)
+My [CV](Resume.pdf)
 
 # My Projects
 ## Chrono-Vice Gameplay Prototypes
