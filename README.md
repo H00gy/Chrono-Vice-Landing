@@ -21,7 +21,7 @@ Chrono-Vice is my upcoming 2D wristwatch dealing game centered around buying and
 
 ### Inventory System
 The inventory system in "Chrono-Vice" will be game object based, showcased in this [prototype](https://github.com/H00gy/inventorySystem).
-## Selection and Fake Identification
+### Selection and Fake Identification
 A core gameplay feature within "Chrono-Vice" is the identification of fake watches, "Chrono-Vice" already has a system for the game understanding which watches are fake and which aren't, this is a [prototype](https://github.com/H00gy/CheckBoxesAndBoxSelect) that showcases how the player selects those watches and how the game assigns "tags" to them based on player identification, regardless of their actual classification
 ### Customer NPC
 In "Chrono-Vice" customer NPC's work off of 2 behaviors, buying and selling. This [prototype](https://github.com/H00gy/CustomerInteractionAndAI) showcases how those behaviors interact with the systems of "Chrono-Vice".
